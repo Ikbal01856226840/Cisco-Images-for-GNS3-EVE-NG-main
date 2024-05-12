@@ -8,7 +8,7 @@
 
 <br>
 
-# Linkedin : [Click Here To Connect Me](https://www.linkedin.com/in/sumonpaul/)
+# Linkedin : [Click Here To Connect Me](https://www.linkedin.com/in/ikbal-hossain-b8aaa62bb/)
 
 <br>
 
