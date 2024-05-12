@@ -722,12 +722,11 @@ Adding a FortiGate firewall device in the EveNg platform requires several steps,
 some of the preinstalled software in Windows 7 hosts for eve-ng so you do not have to worry about the tools,
 
 - Cisco ASDM
-    - For all ASDM Versions join this community group  -  [Join Now](https://t.me/resourcehub1) 
+  
 - [Cisco Anyconnect](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/Network%20Tools/anyconnect-win-4.2.00096-k9.pkg)
-- Wireshark - [Join Now](https://t.me/resourcehub1)
-- FileZilla - [Join Now](https://t.me/resourcehub1)
+
 - [TFTP](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/blob/main/Network%20Tools/Tftpd64-4.64-setup.exe)
-- WinSCP - [Join Now](https://t.me/resourcehub1)
+
 
 and a lot more enjoyable. If not don't worry I will give you the link to download it;
 
@@ -762,7 +761,7 @@ These links will help you to download Linux Host & servers to eve-ng in the easi
 I've provided images from various vendors for practice. If you need anything else or have specific requests, please feel free to let me know here. I'm here to help!
 Please drop the message here if you have any queries!
 
-[Click Here](https://www.linkedin.com/in/sumonpaul/) 
+[Click Here](https://www.linkedin.com/in/ikbal-hossain-b8aaa62bb/) 
 
 
 <br>
@@ -770,9 +769,9 @@ Please drop the message here if you have any queries!
 
 ## Creator [🔝](Images-for-GNS3-and-EVE-NG)
 
-(https://www.linkedin.com/in/sumonpaul/). Created by:-
+(https://www.linkedin.com/in/ikbal-hossain-b8aaa62bb/). Created by:-
 
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@SumonPaul</sub>](https://www.linkedin.com/in/sumonpaul/) |
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@Ikbal Hossain</sub>](https://www.linkedin.com/in/ikbal-hossain-b8aaa62bb/) |
 
 
 <br>
